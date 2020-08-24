@@ -1,2 +1,2 @@
-console.error(HALP!)
-console.log(LogIt)
+console.error("HALP!")
+console.log("I would be a logger")
